@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Node.js / Three.js
+node_modules/
+dist/
+.cache/
+.parcel-cache/
+.vite/
+
+# Build outputs
+build/
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+
+# Large binary files (optional - uncomment if you don't want to commit models)
+# *.stl
+# *.obj
+# *.gltf
+# *.bin
