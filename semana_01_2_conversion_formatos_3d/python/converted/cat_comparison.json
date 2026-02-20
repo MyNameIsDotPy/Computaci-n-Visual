@@ -1,0 +1,65 @@
+[
+  {
+    "format": "stl",
+    "vertices": 1412,
+    "faces": 2832,
+    "edges": 8496,
+    "is_watertight": false,
+    "is_winding_consistent": true,
+    "volume": 30808.068993298704,
+    "surface_area": 7510.923290274324,
+    "duplicate_vertices": 0,
+    "bounds_min": [
+      -17.15843391418457,
+      -36.72283172607422,
+      -0.7796783447265625
+    ],
+    "bounds_max": [
+      20.523557662963867,
+      30.871009826660156,
+      67.0037841796875
+    ]
+  },
+  {
+    "format": "obj",
+    "vertices": 1412,
+    "faces": 2832,
+    "edges": 8496,
+    "is_watertight": false,
+    "is_winding_consistent": true,
+    "volume": 30808.068993630237,
+    "surface_area": 7510.923290423292,
+    "duplicate_vertices": 0,
+    "bounds_min": [
+      -17.15843391,
+      -36.72283173,
+      -0.77967834
+    ],
+    "bounds_max": [
+      20.52355766,
+      30.87100983,
+      67.00378418
+    ]
+  },
+  {
+    "format": "gltf",
+    "vertices": 1412,
+    "faces": 2832,
+    "edges": 8496,
+    "is_watertight": false,
+    "is_winding_consistent": true,
+    "volume": 30808.068993298704,
+    "surface_area": 7510.923290274324,
+    "duplicate_vertices": 0,
+    "bounds_min": [
+      -17.15843391418457,
+      -36.72283172607422,
+      -0.7796783447265625
+    ],
+    "bounds_max": [
+      20.523557662963867,
+      30.871009826660156,
+      67.0037841796875
+    ]
+  }
+]
