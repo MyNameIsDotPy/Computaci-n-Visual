@@ -1,0 +1,43 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+Recordings/
+
+# Unity auto-generated Visual Studio solution and project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity3D generated meta files when using collaboration feature
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crashlytics
+crashlytics-build.properties
+
+# User-specific settings
+UserSettings/
