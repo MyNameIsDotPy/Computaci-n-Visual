@@ -93,17 +93,6 @@ public class TransformationsController : MonoBehaviour
 
 > El script se adjunta únicamente al nodo **padre**. Unity propaga automáticamente las transformaciones a todos los hijos y nietos mediante el árbol de transformaciones de la escena.
 
-## Prompts Utilizados
-
-1. **Configuración de la escena:**
-   > "Crea una escena en Unity con una jerarquía de 3 niveles: un cubo padre, una esfera hija y una cápsula nieta. Cada objeto debe estar desplazado en un eje diferente respecto a su padre."
-
-2. **Script de control:**
-   > "Escribe un script en C# para Unity que lea tres sliders de UI (posición X, rotación Y y escala uniforme) y los aplique en tiempo real al transform del objeto al que está adjunto."
-
-3. **Diseño de la UI:**
-   > "Crea un Canvas en Unity con tres Sliders y sus respectivos Labels. Configura los rangos: posición X de -3 a 3, rotación Y de 0 a 360, escala de 1 a 5."
-
 ## Aprendizajes y Dificultades
 
 ### Aprendizajes Clave

@@ -210,30 +210,6 @@ switch (format) {
 )}
 ```
 
-## Prompts Utilizados
-
-### Para el desarrollo de Python:
-
-1. **Prompt inicial:**
-   > "Crea un script Python que use trimesh para cargar un archivo STL, analizar sus propiedades (vértices, caras, volumen, duplicados) y convertirlo a formatos OBJ y GLTF. Incluye una tabla comparativa de las propiedades de cada formato."
-
-2. **Prompt para visualización:**
-   > "Genera un script adicional que cree visualizaciones matplotlib comparando los tres formatos lado a lado, incluyendo vistas solid y wireframe. Guarda las imágenes en una carpeta media/."
-
-3. **Prompt para notebook:**
-   > "Convierte el script en un Jupyter Notebook interactivo con explicaciones de cada formato, gráficos de comparación y análisis estadístico detallado."
-
-### Para el desarrollo de Three.js:
-
-1. **Prompt inicial:**
-   > "Crea una aplicación React con Three.js (usando React Three Fiber) que permita cargar y visualizar modelos 3D en formatos STL, OBJ y GLTF. Incluye botones para alternar entre formatos y un panel con información del modelo (vértices, caras)."
-
-2. **Prompt para controles:**
-   > "Agrega controles interactivos usando Leva para cambiar el color de fondo, toggle de wireframe, color del wireframe, y velocidad de rotación automática. Incluye OrbitControls para navegación 3D."
-
-3. **Prompt para UI:**
-   > "Mejora la interfaz con un panel de información que muestre estadísticas del modelo en tiempo real, instrucciones de uso, y diseño responsive con estilos modernos."
-
 ## Aprendizajes y Dificultades
 
 ### Aprendizajes Clave
