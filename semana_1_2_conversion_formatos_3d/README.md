@@ -1,6 +1,6 @@
 # Taller Conversion Formatos 3D
 
-**Estudiante:** [Tu nombre aquí]
+**Estudiante:** Angel Santiago Avendaño
 **Fecha de entrega:** 2026-02-20
 
 ## Descripción
