@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"C:\\\\Users\\\\angel\\\\repos\\\\Computaci-n-Visual\" log --oneline -5)",
+      "WebSearch",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(test:*)",
+      "Bash(python:*)",
+      "Bash(GIT_AUTHOR_DATE=\"2026-02-20 10:55:00\" GIT_COMMITTER_DATE=\"2026-02-20 10:55:00\" git commit:*)",
+      "Bash(GIT_AUTHOR_DATE=\"2026-02-20 11:15:00\" GIT_COMMITTER_DATE=\"2026-02-20 11:15:00\" git commit:*)",
+      "Bash(GIT_AUTHOR_DATE=\"2026-02-20 11:40:00\" GIT_COMMITTER_DATE=\"2026-02-20 11:40:00\" git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git reset:*)",
+      "Bash(git restore:*)",
+      "Bash(cd:*)",
+      "Bash(cd semana_2_3_camara_pinhole_calibracion:*)"
+    ]
+  }
+}
